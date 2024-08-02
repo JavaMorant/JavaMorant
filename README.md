@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 😱 About me: I am a 19 year old, penultimate year at the University of St Andrews studying Computer Science
+- 😱 About me: I am a 20 year old, penultimate year at the University of St Andrews studying Computer Science
 - 🌱 I’m currently learning C++.
 - 💼 I am currently looking for a summer internship in FinTech.
 - 📫 How to reach me: <div id="badges">
