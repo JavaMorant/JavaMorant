@@ -1,4 +1,4 @@
-# Hi, I'm Awande Dibidi 👋
+# Hey, I'm Awande 👋
 
 ## 🎓 About Me
 **Computer Science MSci Student** at the **University of St Andrews** | Aspiring **Quantitative Developer**
