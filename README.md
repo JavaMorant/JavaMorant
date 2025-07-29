@@ -3,7 +3,7 @@
 ## 🎓 About Me
 **Computer Science MSci Student** at the **University of St Andrews** | Aspiring **Quantitative Developer**
 
-I'm passionate about building **production-scale machine learning systems** and **algorithmic trading strategies**. Currently combining academic research with real-world applications in quantitative finance and cybersecurity.
+I'm passionate about building **production-scale machine learning systems** and **algorithmic trading strategies**. Currently exploring the intersection of tech, finance, and machine learning.
 
 ---
 
